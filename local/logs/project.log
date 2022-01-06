@@ -1,0 +1,1004 @@
+2021-12-21T05:57:35.810Z - success: protocol editor-framework registered
+2021-12-21T05:57:35.810Z - success: protocol app registered
+2021-12-21T05:57:35.810Z - success: protocol theme registered
+2021-12-21T05:57:35.810Z - success: protocol packages registered
+2021-12-21T05:57:35.828Z - normal: Load ~/.CocosCreator/settings.json
+2021-12-21T05:57:35.852Z - success: protocol uuid registerred
+2021-12-21T05:57:35.852Z - success: protocol db registerred
+2021-12-21T05:57:35.853Z - success: protocol thumbnail registerred
+2021-12-21T05:57:35.946Z - normal: Initializing Asset Database
+2021-12-21T05:57:35.948Z - normal: checking language setting...
+2021-12-21T05:57:35.948Z - normal: Language: zh
+2021-12-21T05:57:35.951Z - success: protocol unpack registerred
+2021-12-21T05:57:35.951Z - success: protocol disable-commonjs registerred
+2021-12-21T05:57:36.260Z - normal: connected!
+2021-12-21T05:57:36.594Z - normal: Check project /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2021-12-21T05:57:36.595Z - normal: Initializing project /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2021-12-21T05:57:36.838Z - success: adapters loaded
+2021-12-21T05:57:36.842Z - success: asset-db-debugger loaded
+2021-12-21T05:57:36.934Z - success: fb-audience-network loaded
+2021-12-21T05:57:36.988Z - success: fb-live-stream loaded
+2021-12-21T05:57:36.991Z - success: google-play-instant loaded
+2021-12-21T05:57:36.992Z - success: jsb-adapter loaded
+2021-12-21T05:57:36.995Z - success: package-manager loaded
+2021-12-21T05:57:36.997Z - success: runtime-adapters loaded
+2021-12-21T05:57:37.000Z - success: runtime-dev-tools loaded
+2021-12-21T05:57:37.003Z - success: ui-kit-preview-extra loaded
+2021-12-21T05:57:37.007Z - success: ui-kit-preview loaded
+2021-12-21T05:57:37.811Z - success: alipay-minigame loaded
+2021-12-21T05:57:37.821Z - success: assets loaded
+2021-12-21T05:57:37.825Z - success: baidugame-opendata loaded
+2021-12-21T05:57:37.828Z - success: baidugame loaded
+2021-12-21T05:57:37.832Z - success: builder loaded
+2021-12-21T05:57:37.835Z - success: bytedance-opendata loaded
+2021-12-21T05:57:37.839Z - success: bytedance loaded
+2021-12-21T05:57:37.844Z - success: channel-upload-tools loaded
+2021-12-21T05:57:37.990Z - success: cloud-function loaded
+2021-12-21T05:57:38.180Z - success: cocos-services loaded
+2021-12-21T05:57:38.184Z - success: console loaded
+2021-12-21T05:57:38.188Z - success: curve-editor loaded
+2021-12-21T05:57:38.199Z - success: fb-instant-games loaded
+2021-12-21T05:57:38.203Z - success: game-window loaded
+2021-12-21T05:57:38.205Z - success: google-instant-games loaded
+2021-12-21T05:57:38.210Z - success: hierarchy loaded
+2021-12-21T05:57:38.214Z - success: huawei-agc loaded
+2021-12-21T05:57:38.217Z - success: huawei-runtime loaded
+2021-12-21T05:57:38.222Z - success: inspector loaded
+2021-12-21T05:57:38.241Z - success: cpk-publish loaded
+2021-12-21T05:57:38.242Z - success: keystore loaded
+2021-12-21T05:57:38.264Z - success: link-sure-runtime loaded
+2021-12-21T05:57:38.277Z - success: node-library loaded
+2021-12-21T05:57:38.279Z - success: open-recent-items loaded
+2021-12-21T05:57:38.285Z - success: oppo-runtime loaded
+2021-12-21T05:57:38.288Z - success: package-asset loaded
+2021-12-21T05:57:38.290Z - success: preferences loaded
+2021-12-21T05:57:38.295Z - success: project-importer loaded
+2021-12-21T05:57:38.299Z - success: project-settings loaded
+2021-12-21T05:57:38.317Z - success: qtt-runtime loaded
+2021-12-21T05:57:38.322Z - success: scene loaded
+2021-12-21T05:57:38.323Z - success: simulator-debugger loaded
+2021-12-21T05:57:38.325Z - success: sprite-editor loaded
+2021-12-21T05:57:38.398Z - success: store loaded
+2021-12-21T05:57:38.402Z - success: taobao-creativeapp loaded
+2021-12-21T05:57:38.407Z - success: timeline loaded
+2021-12-21T05:57:38.413Z - success: vivo-runtime loaded
+2021-12-21T05:57:38.417Z - success: wechatgame-opendata loaded
+2021-12-21T05:57:38.422Z - success: wechatgame loaded
+2021-12-21T05:57:38.427Z - success: xiaomi-runtime loaded
+2021-12-21T05:57:38.504Z - success: im-plugin loaded
+2021-12-21T05:57:38.505Z - success: preview server running at http://localhost:7456
+2021-12-21T05:57:39.289Z - normal: Initializing Cocos2d
+2021-12-21T05:57:39.569Z - normal: Initializing engine extends
+2021-12-21T05:57:40.466Z - normal: Loading packages
+2021-12-21T05:57:40.468Z - normal: Watching packages
+2021-12-21T05:57:40.617Z - normal: Run Application
+2021-12-21T05:57:40.956Z - info: Cocos Service load base data!
+2021-12-21T05:57:52.962Z - normal: Start building with options : {
+  "title": "feijidazhan",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "54018a2d-f33a-423a-8cfe-9131584e603a",
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeRight": true,
+    "landscapeLeft": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "subpackage",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "encryptJs": true,
+  "xxteaKey": "8304a198-996a-44",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "android-instant": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "pathPattern": "",
+    "scheme": "https",
+    "host": "",
+    "skipRecord": false,
+    "recordPath": ""
+  },
+  "appBundle": false,
+  "agreements": {
+    "20200904180755": false,
+    "20200904180716": false
+  },
+  "platform": "mini-game",
+  "actualPlatform": "wechatgame",
+  "template": "link",
+  "buildPath": "/Users/zhouyueyang/Documents/WXGame/NewProject_1/build",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "buildScriptsOnly": false,
+  "dest": "/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame",
+  "separateEngineMode": false,
+  "scenes": [
+    "54018a2d-f33a-423a-8cfe-9131584e603a",
+    "fc3f5ce2-7c32-48e8-a802-868959387a50"
+  ],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "project": "/Users/zhouyueyang/Documents/WXGame/NewProject_1",
+  "projectName": "feijidazhan",
+  "debugBuildWorker": false
+}
+2021-12-21T05:57:53.157Z - normal: Building /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2021-12-21T05:57:53.157Z - normal: Destination /Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame
+2021-12-21T05:57:53.255Z - normal: Start spawn build-worker
+2021-12-21T05:57:55.113Z - normal: Finish spawn build-worker
+2021-12-21T05:57:55.113Z - normal: Delete /Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/**/*,!/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/game.json,!/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/project.config.json
+2021-12-21T05:57:55.144Z - normal: Building 3D physics modules...
+2021-12-21T05:58:01.242Z - normal: Compiling /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2021-12-21T05:58:01.808Z - normal: Start init build-worker
+2021-12-21T05:58:03.088Z - normal: Finish init build-worker
+2021-12-21T05:58:03.088Z - normal: Start build-assets in worker
+2021-12-21T05:58:03.088Z - normal: 
+--- build-asset: {"root":"db://internal/resources","name":"internal","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/internal","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/internal","priority":11,"scenes":[],"compressionType":"merge_all_json"}
+
+2021-12-21T05:58:03.180Z - normal: 
+--- build-asset: {"root":"db://assets/resources","name":"resources","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/resources","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/resources","priority":8,"scenes":[],"compressionType":"default"}
+
+2021-12-21T05:58:03.205Z - normal: 
+--- build-asset: {"root":null,"priority":7,"dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/main","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/main","name":"main","scenes":["fc3f5ce2-7c32-48e8-a802-868959387a50","54018a2d-f33a-423a-8cfe-9131584e603a"],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":true,"isRemote":false}
+
+2021-12-21T05:58:03.279Z - normal: 
+--- build-asset: {"root":"db://assets/res/audio","name":"audio","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/audio","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/audio","priority":1,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2021-12-21T05:58:03.289Z - normal: 
+--- build-asset: {"root":"db://assets/res/font","name":"font","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/font","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/font","priority":1,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2021-12-21T05:58:03.298Z - normal: Finish build-assets in worker
+2021-12-21T05:58:03.304Z - normal: Start building plugin scripts
+2021-12-21T05:58:06.168Z - normal: Cocos Service --- The Cocos Analytics service uninstallation is complete!
+2021-12-21T05:58:06.226Z - normal: Built wechatgame successfully
+2021-12-21T05:58:09.785Z - error: - initialize
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-21T05:58:09.811Z - error: ✔ IDE server has started, listening on http://127.0.0.1:26301
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-21T05:58:09.812Z - error: - open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-21T05:58:10.506Z - error: ✔ open IDE
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-28T02:37:02.587Z - normal: Start building with options : {
+  "title": "feijidazhan",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "54018a2d-f33a-423a-8cfe-9131584e603a",
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeRight": true,
+    "landscapeLeft": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "subpackage",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "encryptJs": true,
+  "xxteaKey": "8304a198-996a-44",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "android-instant": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "pathPattern": "",
+    "scheme": "https",
+    "host": "",
+    "skipRecord": false,
+    "recordPath": ""
+  },
+  "appBundle": false,
+  "agreements": {
+    "20200904180755": false,
+    "20200904180716": false
+  },
+  "platform": "mini-game",
+  "actualPlatform": "wechatgame",
+  "template": "link",
+  "buildPath": "/Users/zhouyueyang/Documents/WXGame/NewProject_1/build",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "buildScriptsOnly": false,
+  "dest": "/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame",
+  "separateEngineMode": false,
+  "scenes": [
+    "54018a2d-f33a-423a-8cfe-9131584e603a",
+    "fc3f5ce2-7c32-48e8-a802-868959387a50"
+  ],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "project": "/Users/zhouyueyang/Documents/WXGame/NewProject_1",
+  "projectName": "feijidazhan",
+  "debugBuildWorker": false
+}
+2021-12-28T02:37:02.589Z - normal: Building /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2021-12-28T02:37:02.589Z - normal: Destination /Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame
+2021-12-28T02:37:02.590Z - normal: Start spawn build-worker
+2021-12-28T02:37:04.887Z - normal: Finish spawn build-worker
+2021-12-28T02:37:04.887Z - normal: Delete /Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/**/*,!/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/game.json,!/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/project.config.json
+2021-12-28T02:37:04.918Z - normal: Building 3D physics modules...
+2021-12-28T02:37:10.932Z - normal: Compiling /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2021-12-28T02:37:11.482Z - normal: Start init build-worker
+2021-12-28T02:37:12.981Z - normal: Finish init build-worker
+2021-12-28T02:37:12.981Z - normal: Start build-assets in worker
+2021-12-28T02:37:12.981Z - normal: 
+--- build-asset: {"root":"db://internal/resources","name":"internal","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/internal","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/internal","priority":11,"scenes":[],"compressionType":"merge_all_json"}
+
+2021-12-28T02:37:13.077Z - normal: 
+--- build-asset: {"root":"db://assets/resources","name":"resources","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/resources","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/resources","priority":8,"scenes":[],"compressionType":"default"}
+
+2021-12-28T02:37:13.099Z - normal: 
+--- build-asset: {"root":null,"priority":7,"dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/main","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/main","name":"main","scenes":["fc3f5ce2-7c32-48e8-a802-868959387a50","54018a2d-f33a-423a-8cfe-9131584e603a"],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":true,"isRemote":false}
+
+2021-12-28T02:37:13.177Z - normal: 
+--- build-asset: {"root":"db://assets/res/audio","name":"audio","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/audio","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/audio","priority":1,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2021-12-28T02:37:13.190Z - normal: 
+--- build-asset: {"root":"db://assets/res/font","name":"font","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/font","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/font","priority":1,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2021-12-28T02:37:13.198Z - normal: Finish build-assets in worker
+2021-12-28T02:37:13.205Z - normal: Start building plugin scripts
+2021-12-28T02:37:15.818Z - normal: Cocos Service --- The Cocos Analytics service uninstallation is complete!
+2021-12-28T02:37:15.870Z - normal: Built wechatgame successfully
+2021-12-28T02:37:24.631Z - error: - initialize
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-28T02:37:24.665Z - error: ✔ IDE server has started, listening on http://127.0.0.1:26301
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-28T02:37:24.665Z - error: - open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-28T02:37:24.684Z - error: ✖ open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-28T02:37:24.685Z - normal: [error] Error: Fail to open IDE
+
+2021-12-28T02:37:45.347Z - error: - initialize
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-28T02:37:45.371Z - error: ✔ IDE server has started, listening on http://127.0.0.1:26301
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-28T02:37:45.371Z - error: - open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-28T02:37:45.959Z - error: ✔ open IDE
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2021-12-30T01:00:02.256Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@main:696975
+2021-12-30T04:16:18.309Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@main:743284
+2021-12-31T08:10:21.022Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@main:1247043
+2021-12-31T08:30:12.738Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@main:1247210
+2022-01-05T20:54:59.237Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@main:1880547
+2022-01-05T23:32:03.382Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@main:1881721
+2022-01-06T02:27:28.589Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:29.012Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:29.514Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:29.558Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:30.011Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:30.059Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:30.343Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:30.510Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:30.642Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:30.993Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:31.008Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:31.510Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:31.553Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:31.842Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:32.025Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:32.142Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:32.510Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:33.024Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:33.508Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:33.709Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:34.009Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:34.041Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:34.342Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:34.509Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:35.009Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:35.509Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:36.026Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:36.509Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:37.010Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:37.510Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T02:27:38.012Z - error: RangeError: offset is out of bounds
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:245:10)
+    at CCClass.invoke (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:210:10)
+    at CCClass.updatePhase (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:511:24)
+    at Object.mainLoop (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:868:27)
+    at EditorEngine.tickInEditMode (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:2502)
+    at EditorEngine._tick (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/editor-engine/index.ccc:1:4197)
+2022-01-06T04:18:59.915Z - normal: Start building with options : {
+  "title": "feijidazhan",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "54018a2d-f33a-423a-8cfe-9131584e603a",
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeRight": true,
+    "landscapeLeft": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "subpackage",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "encryptJs": true,
+  "xxteaKey": "8304a198-996a-44",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "android-instant": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "pathPattern": "",
+    "scheme": "https",
+    "host": "",
+    "skipRecord": false,
+    "recordPath": ""
+  },
+  "appBundle": false,
+  "agreements": {
+    "20200904180755": false,
+    "20200904180716": false
+  },
+  "platform": "mini-game",
+  "actualPlatform": "wechatgame",
+  "template": "link",
+  "buildPath": "/Users/zhouyueyang/Documents/WXGame/NewProject_1/build",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "buildScriptsOnly": false,
+  "dest": "/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame",
+  "separateEngineMode": false,
+  "scenes": [
+    "54018a2d-f33a-423a-8cfe-9131584e603a",
+    "fc3f5ce2-7c32-48e8-a802-868959387a50"
+  ],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "project": "/Users/zhouyueyang/Documents/WXGame/NewProject_1",
+  "projectName": "feijidazhan",
+  "debugBuildWorker": false
+}
+2022-01-06T04:18:59.916Z - normal: Building /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2022-01-06T04:18:59.916Z - normal: Destination /Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame
+2022-01-06T04:18:59.916Z - normal: Start spawn build-worker
+2022-01-06T04:19:02.356Z - normal: Finish spawn build-worker
+2022-01-06T04:19:02.357Z - normal: Delete /Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/**/*,!/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/game.json,!/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/project.config.json
+2022-01-06T04:19:02.393Z - normal: Building 3D physics modules...
+2022-01-06T04:19:08.647Z - normal: Compiling /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2022-01-06T04:19:09.228Z - normal: Start init build-worker
+2022-01-06T04:19:10.864Z - normal: Finish init build-worker
+2022-01-06T04:19:10.864Z - normal: Start build-assets in worker
+2022-01-06T04:19:10.865Z - normal: 
+--- build-asset: {"root":"db://internal/resources","name":"internal","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/internal","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/internal","priority":11,"scenes":[],"compressionType":"merge_all_json"}
+
+2022-01-06T04:19:10.967Z - normal: 
+--- build-asset: {"root":"db://assets/resources","name":"resources","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/resources","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/resources","priority":8,"scenes":[],"compressionType":"default"}
+
+2022-01-06T04:19:10.993Z - normal: 
+--- build-asset: {"root":null,"priority":7,"dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/main","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/main","name":"main","scenes":["fc3f5ce2-7c32-48e8-a802-868959387a50","54018a2d-f33a-423a-8cfe-9131584e603a"],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":true,"isRemote":false}
+
+2022-01-06T04:19:11.081Z - normal: 
+--- build-asset: {"root":"db://assets/res/audio","name":"audio","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/audio","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/audio","priority":1,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2022-01-06T04:19:11.092Z - normal: 
+--- build-asset: {"root":"db://assets/res/font","name":"font","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/font","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/font","priority":1,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2022-01-06T04:19:11.100Z - normal: Finish build-assets in worker
+2022-01-06T04:19:11.104Z - normal: Start building plugin scripts
+2022-01-06T04:19:13.565Z - normal: Cocos Service --- The Cocos Analytics service uninstallation is complete!
+2022-01-06T04:19:13.657Z - normal: Built wechatgame successfully
+2022-01-06T04:19:17.074Z - error: - initialize
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:19:17.133Z - error: ✔ IDE server has started, listening on http://127.0.0.1:57027
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:19:17.133Z - error: - open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:19:17.157Z - error: ✖ open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:19:17.158Z - normal: [error] Error: Fail to open IDE
+
+2022-01-06T04:19:39.798Z - error: - initialize
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:19:39.820Z - error: ✔ IDE server has started, listening on http://127.0.0.1:57027
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:19:39.820Z - error: - open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:19:40.492Z - error: ✔ open IDE
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:27:00.272Z - normal: Start building with options : {
+  "title": "feijidazhan",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "54018a2d-f33a-423a-8cfe-9131584e603a",
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeRight": true,
+    "landscapeLeft": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "subpackage",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "encryptJs": true,
+  "xxteaKey": "8304a198-996a-44",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "android-instant": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "pathPattern": "",
+    "scheme": "https",
+    "host": "",
+    "skipRecord": false,
+    "recordPath": ""
+  },
+  "appBundle": false,
+  "agreements": {
+    "20200904180755": false,
+    "20200904180716": false
+  },
+  "platform": "mini-game",
+  "actualPlatform": "wechatgame",
+  "template": "link",
+  "buildPath": "/Users/zhouyueyang/Documents/WXGame/NewProject_1/build",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "buildScriptsOnly": false,
+  "dest": "/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame",
+  "separateEngineMode": false,
+  "scenes": [
+    "54018a2d-f33a-423a-8cfe-9131584e603a",
+    "fc3f5ce2-7c32-48e8-a802-868959387a50"
+  ],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "project": "/Users/zhouyueyang/Documents/WXGame/NewProject_1",
+  "projectName": "feijidazhan",
+  "debugBuildWorker": false
+}
+2022-01-06T04:27:00.273Z - normal: Building /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2022-01-06T04:27:00.273Z - normal: Destination /Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame
+2022-01-06T04:27:00.274Z - normal: Start spawn build-worker
+2022-01-06T04:27:02.566Z - normal: Finish spawn build-worker
+2022-01-06T04:27:02.566Z - normal: Delete /Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/**/*,!/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/game.json,!/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/project.config.json
+2022-01-06T04:27:02.591Z - normal: Building 3D physics modules...
+2022-01-06T04:27:08.850Z - normal: Compiling /Users/zhouyueyang/Documents/WXGame/NewProject_1
+2022-01-06T04:27:09.436Z - normal: Start init build-worker
+2022-01-06T04:27:10.992Z - normal: Finish init build-worker
+2022-01-06T04:27:10.992Z - normal: Start build-assets in worker
+2022-01-06T04:27:10.992Z - normal: 
+--- build-asset: {"root":"db://internal/resources","name":"internal","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/internal","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/internal","priority":11,"scenes":[],"compressionType":"merge_all_json"}
+
+2022-01-06T04:27:11.102Z - normal: 
+--- build-asset: {"root":"db://assets/resources","name":"resources","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/resources","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/assets/resources","priority":8,"scenes":[],"compressionType":"default"}
+
+2022-01-06T04:27:11.129Z - normal: 
+--- build-asset: {"root":null,"priority":7,"dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/main","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/main","name":"main","scenes":["fc3f5ce2-7c32-48e8-a802-868959387a50","54018a2d-f33a-423a-8cfe-9131584e603a"],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":true,"isRemote":false}
+
+2022-01-06T04:27:11.213Z - normal: 
+--- build-asset: {"root":"db://assets/res/audio","name":"audio","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/audio","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/audio","priority":1,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2022-01-06T04:27:11.225Z - normal: 
+--- build-asset: {"root":"db://assets/res/font","name":"font","dest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/font","scriptDest":"/Users/zhouyueyang/Documents/WXGame/NewProject_1/build/wechatgame/subpackages/font","priority":1,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2022-01-06T04:27:11.237Z - normal: Finish build-assets in worker
+2022-01-06T04:27:11.241Z - normal: Start building plugin scripts
+2022-01-06T04:27:13.734Z - normal: Cocos Service --- The Cocos Analytics service uninstallation is complete!
+2022-01-06T04:27:13.824Z - normal: Built wechatgame successfully
+2022-01-06T04:28:18.632Z - error: - initialize
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:28:18.658Z - error: ✔ IDE server has started, listening on http://127.0.0.1:57027
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:28:18.659Z - error: - open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
+2022-01-06T04:28:19.639Z - error: ✔ open IDE
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.7/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.ccc:1:821)
+    at Socket.emit (events.js:315:20)
+    at Socket.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Pipe.callbackTrampoline (internal/async_hooks.js:131:14)
